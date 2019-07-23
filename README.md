@@ -15,6 +15,9 @@
  9    | mv      |คำสั่งย้ายตำแหน่ง file หรือ directory
  10   | rm      |คำสั่งลบ file หรือ directory
  11   | rmdir   |คำสั่งลบ directory
- 12 
+ 12   | who     |คำสั่งแสดงข้อมูล user ที่ login ขณะนั้น
+ 13   | free    |คำสั่งแสดงข้อมูลการใช้งาน memory
+ 14   | echo    |คำสั่งในการแสดงผลบนหน้าจอ screen
+ 15   | grep    |คำสั่งค้นหาบรรทัดใน file ที่ตรงเงื่อนไข
 
 :+1: :sparkles: :metal: :rocket: :octocat: :tada:
